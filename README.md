@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Muna (@mn-INF on GitHub)
 - 👀 I’m a recent college graduate with experience and passion for data science and data analytics, with a focus on ML
-- 🌱 I program mainly in Python and R (self-taught in SQL)
-- 🌱 Currently Learning: Tableau, NLP techniques (Python)
+- 🌱 I program mainly in Python and R (self-taught in SQL for database work and Tableau for visualization)
+- 🌱 Currently Learning: NLP techniques (Python)
 - 📫 How to reach me: munanwana@gmail.com (email), https://www.linkedin.com/in/muna-nwana/ (LinkedIn)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Former college athlete, youngest of 3, into competitive video gaming and playing the drums
